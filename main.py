@@ -4,9 +4,9 @@ from email.mime.text import MIMEText
 
 def send_email_report():
     # Email credentials and configuration
-    sender_email = "vmaya416@gmail.com"
-    sender_password = "#Panipali2.0"
-    receiver_email = "19301047vismaya"
+    sender_email = "sender_mail"
+    sender_password = "password"
+    receiver_email = "receiver_mail"
     subject = "Daily Report"
     body = "This is your daily report."
 
